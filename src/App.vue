@@ -6,7 +6,7 @@ export default defineComponent({
 });
 </script>
 <template>
-  <div>
+  <div class="container mx-auto">
     <h1 class="text-xl">Hello vite tailwind starter</h1>
     <router-view></router-view>
   </div>
