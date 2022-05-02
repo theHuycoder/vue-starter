@@ -1,3 +1,14 @@
 import { RouteRecordRaw } from 'vue-router';
+import Homepage from '@/pages/Homepage.vue';
 
-export const routes: RouteRecordRaw[] = [];
+export enum EnumRouteNames {
+  HOMEPAGE = 'routes/homepage',
+}
+
+export const routes: RouteRecordRaw[] = [
+  {
+    path: '/',
+    name: EnumRouteNames.HOMEPAGE,
+    component: Homepage,
+  },
+];
