@@ -1,7 +1,7 @@
 {
-  "name": "vue-starter",
-  "private": true,
+  "name": "vue-starter-by-huydq",
   "version": "0.0.0",
+  "bin": "./bin/cli.js",
   "scripts": {
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
