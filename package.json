@@ -1,5 +1,5 @@
 {
-  "name": "vue-starter-by-huydq",
+  "name": "vue-starter-huydq",
   "version": "0.0.0",
   "bin": "./bin/cli.js",
   "scripts": {
