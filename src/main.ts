@@ -1,3 +1,4 @@
+/* eslint-disable newline-per-chained-call */
 import { createApp } from 'vue';
 import { createPinia } from 'pinia';
 import '@/styles/global.scss';

@@ -1,6 +1,6 @@
 <template>
   <div class="">
-    <h2>This is homepage</h2>
+    <h2 class="font-main-extra-bold text-primary">This is homepage</h2>
     <p>Counter: {{ countStore.counter }}</p>
     <custom-button @click="changeCounter(1)">click</custom-button>
   </div>

@@ -18,5 +18,6 @@ module.exports = {
     'no-shadow': 'off',
     'no-unused-vars': 'off',
     'vue/multi-word-component-names': 'off',
+    'object-curly-newline': 'off',
   },
 };

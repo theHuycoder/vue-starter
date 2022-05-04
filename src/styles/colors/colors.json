@@ -1,0 +1,9 @@
+{
+  "black": "#000000",
+  "white": "#ffffff",
+  "primary": "#3871B8",
+  "app-bg": "#F8FCFF",
+  "active": "#00B182",
+  "danger": "#DB002F",
+  "warn": "#FFCA36"
+}
